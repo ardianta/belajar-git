@@ -15,4 +15,5 @@ Atau mulai belajar Git dari awal:
 - Tutorial Git 09 - Menulis Ulang Sejarah
 - [Tutorial Git 10 - Bekerja dengan Remote Repositori](https://www.petanikode.com/git-remote/)
 - Tutorial Git 11 - Git Tag
-- ...
+- ...Saya sedang belajar berkontribusi pada proyek Open Source melalui GitHub.sss
+
